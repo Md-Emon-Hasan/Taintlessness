@@ -1,7 +1,3 @@
-Here's the README profile for your project hosted at [https://md-emon-hasan.github.io/taintlessness/](https://md-emon-hasan.github.io/taintlessness/):
-
----
-
 # Taintlessness Project
 
 Welcome to the **Taintlessness Project** repository. This project showcases a refined and responsive website template designed for showcasing clean and minimalist design aesthetics.
